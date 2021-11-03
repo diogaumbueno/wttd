@@ -3,4 +3,4 @@
 .wttd
 *.sqlite3
 *pyc
-__psycache__
+__pycache__
